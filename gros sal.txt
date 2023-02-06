@@ -1,0 +1,11 @@
+step1:start
+step2:read employee basic salary
+step3:read eployee hra and compute it by (87*basic salary)/100
+step4:read employee da and compute it by (89*basic salary)/100
+step5:find the gross salary by applying formula (gross salary= Basic salary + hra +Da)
+step6:display gross salary result
+step7:end
+
+
+
+

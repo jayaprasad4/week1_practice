@@ -1,0 +1,6 @@
+Step1:start
+Step2:Read subject1,subjec2,subject3 marks
+Step3:compute sum of subject marks (subject1+subject2+subject3)
+Step4:compute average of subject marks by total subject marks/3
+Step5:display sum and average
+Step6:end
