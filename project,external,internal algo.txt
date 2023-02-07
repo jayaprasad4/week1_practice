@@ -1,0 +1,15 @@
+﻿step1:accept internal score
+step:accept external score
+step3:accept project score
+add (three format marks*100/100)
+step4:let score=100
+step5:let project score 70%,external score 20%,internal score 10%
+step6:if total score 90+ then A grade
+step7:if total score between 70 to90 then B grade and certificate
+step8:if total score between 50 to 70 then c grade and certificate
+
+step9:if total score less than 50 then return fail and certificate
+
+step10:end
+
+
