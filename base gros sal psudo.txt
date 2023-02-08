@@ -1,0 +1,10 @@
+Begin                            
+Number basesal,hra,da
+Number gs
+Print(“basesal”)
+Input basesal
+hra=(basic *67)/100
+da=(basic * 89)/100
+gs=basesal+hra+da
+print(“gross sal”,gs)
+end
