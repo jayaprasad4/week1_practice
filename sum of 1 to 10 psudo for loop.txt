@@ -1,0 +1,10 @@
+Begin
+{
+Number num,sum=0
+For(num=0;num<=10;num++)
+{
+Sum=sum+num;
+Print(“num”num)
+}
+Print(“sum”,sum)
+}
